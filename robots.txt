@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://debarrasmaison.vercel.app/sitemap.xml
